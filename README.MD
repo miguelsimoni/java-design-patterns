@@ -1,3 +1,7 @@
-# Java Design Patterns
+# Design Patterns in Java
 
 ## Singleton
+
+### Lazy Singleton (default)
+
+### Eager Singleton
