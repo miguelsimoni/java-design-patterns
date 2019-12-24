@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Generic Entity.
+ * Entity.
  */
 public class Entity {
 
