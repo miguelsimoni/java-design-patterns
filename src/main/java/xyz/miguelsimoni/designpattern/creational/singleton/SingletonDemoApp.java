@@ -1,13 +1,12 @@
-package xyz.miguelsimoni.designpattern.singleton;
+package xyz.miguelsimoni.designpattern.creational.singleton;
 
 /**
- * Singleton Demo App
+ * Singleton Design Pattern Demo Application.
  */
-public class SingletonDemo 
-{
-    public static void main(String[] args)
-    {
-        System.out.println( "--- Singleton Demo App ---" );
+public class SingletonDemoApp {
+
+    public static void main(String[] args) {
+        System.out.println("--- Design Pattern Singleton Demo Application ---");
 
         Singleton s1 = Singleton.getInstance();
         Singleton s2 = Singleton.getInstance();
@@ -16,4 +15,5 @@ public class SingletonDemo
         System.out.println("s2 -> " + s2.toString());
         System.out.println("s1 == s2 -> " + (s1 == s2));
     }
+
 }

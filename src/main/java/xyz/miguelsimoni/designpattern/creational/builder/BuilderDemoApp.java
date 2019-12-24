@@ -8,6 +8,8 @@ import xyz.miguelsimoni.model.Entity;
 public class BuilderDemoApp {
 
     public static void main(String[] args) {
+        System.out.println("--- Design Pattern Builder Demo App ---");
+
         EntityDirector director = new EntityDirector();
 
         Entity defaultEntity = director.construct();
