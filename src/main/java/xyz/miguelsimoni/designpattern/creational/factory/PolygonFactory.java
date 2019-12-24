@@ -1,7 +1,7 @@
 package xyz.miguelsimoni.designpattern.creational.factory;
 
 import xyz.miguelsimoni.designpattern.creational.factory.exceptions.PolygonNotDefinedException;
-import xyz.miguelsimoni.model.*;
+import xyz.miguelsimoni.domain.*;
 
 public class PolygonFactory {
 

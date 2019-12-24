@@ -1,4 +1,4 @@
-package xyz.miguelsimoni.model;
+package xyz.miguelsimoni.domain;
 
 import java.util.HashSet;
 import java.util.Set;

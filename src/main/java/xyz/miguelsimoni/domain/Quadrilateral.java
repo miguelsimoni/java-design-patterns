@@ -1,4 +1,4 @@
-package xyz.miguelsimoni.model;
+package xyz.miguelsimoni.domain;
 
 public class Quadrilateral extends Polygon {
 

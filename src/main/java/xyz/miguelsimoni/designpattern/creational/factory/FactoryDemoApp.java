@@ -1,7 +1,7 @@
 package xyz.miguelsimoni.designpattern.creational.factory;
 
-import xyz.miguelsimoni.model.Polygon;
-import xyz.miguelsimoni.model.PolygonType;
+import xyz.miguelsimoni.domain.Polygon;
+import xyz.miguelsimoni.domain.PolygonType;
 
 public class FactoryDemoApp {
 

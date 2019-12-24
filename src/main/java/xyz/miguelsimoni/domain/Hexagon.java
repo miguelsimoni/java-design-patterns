@@ -1,4 +1,4 @@
-package xyz.miguelsimoni.model;
+package xyz.miguelsimoni.domain;
 
 public class Hexagon extends Polygon {
 

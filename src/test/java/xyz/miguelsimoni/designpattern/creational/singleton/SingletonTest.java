@@ -1,4 +1,4 @@
-package xyz.miguelsimoni.designpattern.singleton;
+package xyz.miguelsimoni.designpattern.creational.singleton;
 
 import static org.junit.Assert.assertTrue;
 

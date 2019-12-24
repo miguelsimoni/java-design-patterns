@@ -1,6 +1,6 @@
 package xyz.miguelsimoni.designpattern.creational.builder;
 
-import xyz.miguelsimoni.model.Entity;
+import xyz.miguelsimoni.domain.Entity;
 
 /**
  * Builder Design Pattern Demo Application.
