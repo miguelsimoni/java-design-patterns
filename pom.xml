@@ -6,8 +6,20 @@
   <groupId>xyz.miguelsimoni</groupId>
   <artifactId>java-design-patterns</artifactId>
   <version>1.0-SNAPSHOT</version>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
-  <name>java-design-patterns</name>
+    <name>java-design-patterns</name>
   <url>https://miguelsimoni.xyz</url>
 
   <properties>

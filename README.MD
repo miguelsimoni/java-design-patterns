@@ -5,3 +5,5 @@
 ### Lazy Singleton (default)
 
 ### Eager Singleton
+
+## Builder
