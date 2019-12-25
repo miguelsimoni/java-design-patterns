@@ -1,9 +1,18 @@
 # Design Patterns in Java
 
-## Singleton
+## Creational Patterns
 
-### Lazy Singleton (default)
+### Singleton
 
-### Eager Singleton
+#### Lazy Singleton (default)
 
-## Builder
+#### Eager Singleton
+
+### Builder
+
+### Factory
+
+## Behavioral Patterns
+
+### Command
+
